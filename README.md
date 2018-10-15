@@ -86,4 +86,8 @@ Browse through the Rails Guides below:
 * [Rails Guides](http://guides.rubyonrails.org/) - [Action Controller Overview](http://guides.rubyonrails.org/action_controller_overview.html)
 * [Rails Guides](http://guides.rubyonrails.org/) - [Rails Routing from the Outside In](http://guides.rubyonrails.org/routing.html)
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-rails-blog-scaffold/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-rails-blog-scaffold/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Rails Blog</p>
